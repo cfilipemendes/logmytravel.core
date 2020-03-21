@@ -1,12 +1,6 @@
-# Visit / LogEntry
-* Title - Text
-* Description - Text
-* Comments - Text
-* Rating (1-10 decimal) 
-* Start Date - DateTime
-* End Date - DateTime
-* Latitude - Number
-* Longitude - Number
-* CreationDate - DateTime
-* UpdateDate - DateTime
- 
+# LogMyTravel - Those photos completely forggoten in your old desktop folder will no more increment! 
+> A social network focused on traveling and store each persons destinations, comments and ratings
+
+// README is currently WIP
+
+
